@@ -1,0 +1,34 @@
+- defaults:
+        link:
+                relink: true
+                create: true
+- link:
+        # Home Directory
+        ~/.xinitrc: xinitrc
+        ~/.xprofile: xprofile
+        ~/.zprofile: zprofile
+        ~/.profile: zprofile
+
+        # .config Directory
+        ~/.config/aliasrc: aliasrc
+        ~/.config/dunst: config/dunst
+        ~/.config/emoji: config/emoji
+        ~/.config/lf: config/lf
+        ~/.config/mpd: config/mpd
+        ~/.config/mpv: config/mpv
+        ~/.config/ncmpcpp: config/ncmpcpp
+        ~/.config/nvim: config/nvim
+        ~/.config/wget: config/wget
+        ~/.config/zathura: config/zathura
+        ~/.config/zsh: config/zsh
+        #local
+        #
+        #
+        ~/Pictures/wallpapers:
+                create: true
+                path: wallpapers
+- create:
+        - ~/dev
+- shell:
+        - [git submodule update --init --recursive, Installing submodules]
+          
