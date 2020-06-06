@@ -21,6 +21,7 @@
         ~/.config/wget: config/wget
         ~/.config/zathura: config/zathura
         ~/.config/zsh: config/zsh
+        ~/.config/gtk-3.0: config/gtk-3.0
         #local
         #
         #
