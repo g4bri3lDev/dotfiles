@@ -33,3 +33,7 @@
 - shell:
         - [git submodule update --init --recursive, Installing submodules]
         - [git clone git@github.com:g4bri3lDev/st.git ~/dev/suckless/st, Cloning st repo]
+        - [git clone git@github.com:g4bri3lDev/dwm.git ~/dev/suckless/dwm, Cloning dwm repo]
+        - [git clone git@github.com:g4bri3lDev/dmenu.git ~/dev/suckless/dmenu, Cloning dmenu repo]
+        - [git clone git@github.com:g4bri3lDev/dwmblocks.git ~/dev/suckless/dwmblocks, Cloning dwmblocks repo]
+        - [git clone git@github.com:g4bri3lDev/arch-pkgs.git ~/dev/arch-pkgs, Cloning arch-pkgs repo]
