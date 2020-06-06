@@ -1,0 +1,47 @@
+Jun 06 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 18:41 : exception: Failed to open '/home/gabriel/.config/mpd/state': No such file or directory
+Jun 06 18:41 : client: [0] opened from 127.0.0.1:36418
+Jun 06 18:41 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:41 : update: added /Lady Gaga - 911.opus
+Jun 06 18:41 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 18:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 18:45 : player: played "Lady Gaga - 911.opus"
+Jun 06 18:46 : update: added /01 Chromatica I.mp3
+Jun 06 18:46 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:46 : update: removing Lady Gaga - 911.opus
+Jun 06 18:46 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:47 : update: added /03 Stupid Love.mp3
+Jun 06 18:47 : update: added /02 Alice.mp3
+Jun 06 18:47 : update: added /04 Rain On Me.mp3
+Jun 06 18:47 : update: added /05 Free Woman.mp3
+Jun 06 18:47 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:47 : update: added /11 Enigma.mp3
+Jun 06 18:47 : update: added /06 Fun Tonight.mp3
+Jun 06 18:47 : update: added /10 Sour Candy.mp3
+Jun 06 18:47 : update: added /07 Chromatica II.mp3
+Jun 06 18:47 : update: added /09 Plastic Doll.mp3
+Jun 06 18:47 : update: updating /05 Free Woman.mp3
+Jun 06 18:47 : update: added /08 911.mp3
+Jun 06 18:47 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:48 : update: added /18 1000 Doves (Piano Demo).mp3
+Jun 06 18:48 : update: updating /11 Enigma.mp3
+Jun 06 18:48 : update: added /15 1000 Doves.mp3
+Jun 06 18:48 : update: added /12 Replay.mp3
+Jun 06 18:48 : update: added /17 Love Me Right.mp3
+Jun 06 18:48 : update: added /14 Sine From Above.mp3
+Jun 06 18:48 : update: added /13 Chromatica III.mp3
+Jun 06 18:48 : update: added /16 Babylon.mp3
+Jun 06 18:48 : update: added /19 Stupid Love (Vitaclub Warehouse Mix).mp3
+Jun 06 18:48 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:49 : player: played "01 Chromatica I.mp3"
+Jun 06 18:50 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:50 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:53 : player: played "18 1000 Doves (Piano Demo).mp3"
+Jun 06 18:54 : player: played "13 Chromatica III.mp3"
+Jun 06 18:58 : client: [0] closed
+Jun 06 18:59 : client: [1] opened from 127.0.0.1:36552
+Jun 06 18:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 06 18:59 : client: [1] closed
+Jun 06 18:59 : client: [2] opened from 127.0.0.1:36556
+Jun 06 18:59 : client: [2] closed

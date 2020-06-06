@@ -1,0 +1,33 @@
+sw_volume: 98
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 17
+time: 235.814000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:01 Chromatica I.mp3
+1:01 Chromatica I.mp3
+2:02 Alice.mp3
+3:03 Stupid Love.mp3
+4:05 Free Woman.mp3
+5:06 Fun Tonight.mp3
+6:07 Chromatica II.mp3
+7:08 911.mp3
+8:09 Plastic Doll.mp3
+9:11 Enigma.mp3
+10:12 Replay.mp3
+11:13 Chromatica III.mp3
+12:15 1000 Doves.mp3
+13:16 Babylon.mp3
+14:17 Love Me Right.mp3
+15:18 1000 Doves (Piano Demo).mp3
+16:19 Stupid Love (Vitaclub Warehouse Mix).mp3
+17:14 Sine From Above.mp3
+playlist_end
