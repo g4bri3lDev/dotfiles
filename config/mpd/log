@@ -45,3 +45,4 @@ Jun 06 18:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No
 Jun 06 18:59 : client: [1] closed
 Jun 06 18:59 : client: [2] opened from 127.0.0.1:36556
 Jun 06 18:59 : client: [2] closed
+Jun 09 15:06 : player: played "14 Sine From Above.mp3"
