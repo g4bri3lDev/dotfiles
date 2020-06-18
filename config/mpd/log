@@ -46,3 +46,21 @@ Jun 06 18:59 : client: [1] closed
 Jun 06 18:59 : client: [2] opened from 127.0.0.1:36556
 Jun 06 18:59 : client: [2] closed
 Jun 09 15:06 : player: played "14 Sine From Above.mp3"
+Jun 15 13:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:44 : client: [0] opened from 127.0.0.1:44322
+Jun 15 13:44 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:48 : player: played "18 1000 Doves (Piano Demo).mp3"
+Jun 15 13:50 : client: [0] closed
+Jun 15 13:50 : client: [1] opened from 127.0.0.1:44374
+Jun 15 13:50 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:50 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:51 : client: [1] closed
+Jun 15 13:51 : client: [2] opened from 127.0.0.1:44380
+Jun 15 13:51 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:51 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:51 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Jun 15 13:52 : player: played "07 Chromatica II.mp3"
+Jun 16 22:00 : client: [2] closed
+Jun 16 22:00 : player: played "08 911.mp3"

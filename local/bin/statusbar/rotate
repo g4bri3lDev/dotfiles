@@ -1,0 +1,33 @@
+#!/bin/sh
+# Rotate screen on click
+
+rotation="$(xrandr -q --verbose | grep 'connected' | egrep -o  '\) (normal|left|inverted|right) \(' | egrep -o '(normal|left|inverted|right)')"
+stylus=`xsetwacom --list devices | grep " stylus" | cut -f 1`
+eraser=`xsetwacom --list devices | grep " eraser" | cut -f 1`
+touch=`xsetwacom --list devices | grep " touch" | cut -f 1`
+
+rscreen() {
+	case "$rotation" in
+		normal)
+		xrandr -o inverted
+		xsetwacom set "$stylus" rotate half
+		xsetwacom set "$touch" rotate half
+		xsetwacom set "$eraser" rotate half
+#		xinput set-prop 12 "Device Enabled" 0
+		;;
+		inverted)
+		xrandr -o normal
+		xsetwacom set "$stylus" rotate none
+		xsetwacom set "$stylus" rotate none
+		xsetwacom set "$eraser" rotate none
+#		xinput set-prop 12 "Device Enabled" 1
+		;;
+	esac
+}
+
+case $BLOCK_BUTTON in
+	1) rscreen ;;
+	3) notify-send "Rotates screen on click" ;;
+esac
+
+printf "%s\n" "💻"
