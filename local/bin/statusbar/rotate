@@ -15,19 +15,36 @@ rscreen() {
 		xsetwacom set "$eraser" rotate half
 #		xinput set-prop 12 "Device Enabled" 0
 		;;
-		inverted)
+		*)
 		xrandr -o normal
 		xsetwacom set "$stylus" rotate none
-		xsetwacom set "$stylus" rotate none
+		xsetwacom set "$touch" rotate none
 		xsetwacom set "$eraser" rotate none
 #		xinput set-prop 12 "Device Enabled" 1
 		;;
 	esac
 }
+rscreen90() {
+	case "$rotation" in
+		normal)
+		xrandr -o left
+		xsetwacom set "$stylus" rotate ccw
+		xsetwacom set "$touch" rotate ccw
+		xsetwacom set "$eraser" rotate ccw
+		;;
+		left)
+		xrandr -o right
+		xsetwacom set "$stylus" rotate cw
+		xsetwacom set "$touch" rotate cw
+		xsetwacom set "$eraser" rotate cw
+		;;
+esac
+}
 
 case $BLOCK_BUTTON in
 	1) rscreen ;;
 	3) notify-send "Rotates screen on click" ;;
+	2) rscreen90 ;;
 esac
 
 printf "%s\n" "💻"

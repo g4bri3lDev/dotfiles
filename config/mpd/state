@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:toggle_visualizer
 state: pause
-current: 7
-time: 23.438000
+current: 24
+time: 10.199000
 random: 0
 repeat: 0
 single: 0
@@ -12,22 +12,29 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:01 Chromatica I.mp3
-1:01 Chromatica I.mp3
-2:02 Alice.mp3
-3:03 Stupid Love.mp3
-4:05 Free Woman.mp3
-5:06 Fun Tonight.mp3
-6:07 Chromatica II.mp3
-7:08 911.mp3
-8:09 Plastic Doll.mp3
-9:11 Enigma.mp3
-10:12 Replay.mp3
-11:13 Chromatica III.mp3
-12:15 1000 Doves.mp3
-13:16 Babylon.mp3
-14:17 Love Me Right.mp3
-15:18 1000 Doves (Piano Demo).mp3
-16:19 Stupid Love (Vitaclub Warehouse Mix).mp3
-17:14 Sine From Above.mp3
+0:Lady Gaga/Artpop/07 Do What U Want.mp3
+1:Lady Gaga/Chromatica [Deluxe Edition]/01 Chromatica I.mp3
+2:Lady Gaga/Chromatica [Deluxe Edition]/02 Alice.mp3
+3:Lady Gaga/Chromatica [Deluxe Edition]/03 Stupid Love.mp3
+4:Lady Gaga/Chromatica [Deluxe Edition]/04 Rain On Me.mp3
+5:Lady Gaga/Chromatica [Deluxe Edition]/05 Free Woman.mp3
+6:Lady Gaga/Chromatica [Deluxe Edition]/06 Fun Tonight.mp3
+7:Lady Gaga/Chromatica [Deluxe Edition]/07 Chromatica II.mp3
+8:Lady Gaga/Chromatica [Deluxe Edition]/08 911.mp3
+9:Lady Gaga/Chromatica [Deluxe Edition]/09 Plastic Doll.mp3
+10:Lady Gaga/Chromatica [Deluxe Edition]/10 Sour Candy.mp3
+11:Lady Gaga/Chromatica [Deluxe Edition]/11 Enigma.mp3
+12:Lady Gaga/Chromatica [Deluxe Edition]/12 Replay.mp3
+13:Lady Gaga/Chromatica [Deluxe Edition]/13 Chromatica III.mp3
+14:Lady Gaga/Chromatica [Deluxe Edition]/14 Sine From Above.mp3
+15:Lady Gaga/Chromatica [Deluxe Edition]/15 1000 Doves.mp3
+16:Lady Gaga/Chromatica [Deluxe Edition]/16 Babylon.mp3
+17:Lady Gaga/Chromatica [Deluxe Edition]/17 Love Me Right.mp3
+18:Lady Gaga/Chromatica [Deluxe Edition]/18 1000 Doves (Piano Demo).mp3
+19:Lady Gaga/Chromatica [Deluxe Edition]/19 Stupid Love (Vitaclub Warehouse Mix).mp3
+20:Rise Against/Wolves/05 Far From Perfect.mp3
+21:Rise Against/Wolves/07 Politics Of Love.mp3
+22:Rise Against/Wolves/08 Parts Per Million.mp3
+23:Rise Against/Wolves/09 Mourning In Amerika.mp3
+24:Lady Gaga/Artpop/15 Applause.mp3
 playlist_end

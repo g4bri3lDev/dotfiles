@@ -1,0 +1,10 @@
+#!/bin/sh
+
+open() {
+onboard
+}
+
+case $BLOCK_BUTTON in
+	1) open ;;
+esac
+printf "%s" "⌨"

@@ -5,5 +5,6 @@ wal -R &
 dwmblocks &
 picom -CG &
 dunst &
+udiskie &
 xset r rate 300 50 &
 unclutter &

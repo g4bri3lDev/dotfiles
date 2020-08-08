@@ -25,5 +25,6 @@ alias \
 	f="$FILE" \
 	e="$EDITOR" \
 	v="$EDITOR" \
+	vim="$EDITOR" \
 	p="sudo pacman" \
 	z="zathura"
