@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 76
 audio_device_state:1:pulse audio
 audio_device_state:1:toggle_visualizer
 state: pause
-current: 24
-time: 10.199000
+current: 46
+time: 125.750000
 random: 0
 repeat: 0
 single: 0
@@ -37,4 +37,71 @@ playlist_begin
 22:Rise Against/Wolves/08 Parts Per Million.mp3
 23:Rise Against/Wolves/09 Mourning In Amerika.mp3
 24:Lady Gaga/Artpop/15 Applause.mp3
+25:Cher - The Gunman.opus
+26:Train - Drops of Jupiter.opus
+27:Sabaton/The Great War/01 The Future Of Warfare.mp3
+28:Sabaton/The Great War/10 The End Of The War To End All Wars.mp3
+29:Sabaton/The Great War/01 The Future Of Warfare.mp3
+30:Sabaton/The Great War/02 Seven Pillars Of Wisdom.mp3
+31:Sabaton/The Great War/03 82nd All The Way.mp3
+32:Sabaton/The Great War/04 The Attack Of The Dead Men.mp3
+33:Sabaton/The Great War/05 Devil Dogs.mp3
+34:Sabaton/The Great War/06 The Red Baron.mp3
+35:Sabaton/The Great War/07 Great War.mp3
+36:Sabaton/The Great War/08 A Ghost In The Trenches.mp3
+37:Sabaton/The Great War/09 Fields Of Verdun.mp3
+38:Sabaton/The Great War/10 The End Of The War To End All Wars.mp3
+39:Sabaton/The Great War/11 In Flanders Fields.mp3
+40:NA - NA.m4a
+41:Rise Against/Wolves/01 Wolves.mp3
+42:Rise Against/Wolves/02 House On Fire.mp3
+43:Rise Against/Wolves/03 The Violence.mp3
+44:Rise Against/Wolves/04 Welcome To The Breakdown.mp3
+45:Rise Against/Wolves/05 Far From Perfect.mp3
+46:Rise Against/Wolves/06 Bullshit.mp3
+47:Rise Against/Wolves/07 Politics Of Love.mp3
+48:Rise Against/Wolves/08 Parts Per Million.mp3
+49:Rise Against/Wolves/09 Mourning In Amerika.mp3
+50:Rise Against/Wolves/10 How Many Walls.mp3
+51:Rise Against/Wolves/11 Miracle.mp3
+52:NA - NA.opus
+53:NA - NA.opus
+54:NA - NA.opus
+55:Cher - The Gunman.opus
+56:Cher - The Gunman.opus
+57:Lady Gaga/Artpop/01 Aura.mp3
+58:Lady Gaga/Artpop/02 Venus.mp3
+59:Lady Gaga/Artpop/03 G.U.Y.mp3
+60:Lady Gaga/Artpop/04 Sexxx Dreams.mp3
+61:Lady Gaga/Artpop/05 Jewels N' Drugs.mp3
+62:Lady Gaga/Artpop/06 MANiCURE.mp3
+63:Lady Gaga/Artpop/07 Do What U Want.mp3
+64:Lady Gaga/Artpop/08 Artpop.mp3
+65:Lady Gaga/Artpop/09 Swine.mp3
+66:Lady Gaga/Artpop/10 Donatella.mp3
+67:Lady Gaga/Artpop/11 Fashion!.mp3
+68:Lady Gaga/Artpop/12 Mary Jane Holland.mp3
+69:Lady Gaga/Artpop/13 Dope.mp3
+70:Lady Gaga/Artpop/14 Gypsy.mp3
+71:Lady Gaga/Artpop/15 Applause.mp3
+72:Lady Gaga/Chromatica [Deluxe Edition]/01 Chromatica I.mp3
+73:Lady Gaga/Chromatica [Deluxe Edition]/02 Alice.mp3
+74:Lady Gaga/Chromatica [Deluxe Edition]/03 Stupid Love.mp3
+75:Lady Gaga/Chromatica [Deluxe Edition]/04 Rain On Me.mp3
+76:Lady Gaga/Chromatica [Deluxe Edition]/05 Free Woman.mp3
+77:Lady Gaga/Chromatica [Deluxe Edition]/06 Fun Tonight.mp3
+78:Lady Gaga/Chromatica [Deluxe Edition]/07 Chromatica II.mp3
+79:Lady Gaga/Chromatica [Deluxe Edition]/08 911.mp3
+80:Lady Gaga/Chromatica [Deluxe Edition]/09 Plastic Doll.mp3
+81:Lady Gaga/Chromatica [Deluxe Edition]/10 Sour Candy.mp3
+82:Lady Gaga/Chromatica [Deluxe Edition]/11 Enigma.mp3
+83:Lady Gaga/Chromatica [Deluxe Edition]/12 Replay.mp3
+84:Lady Gaga/Chromatica [Deluxe Edition]/13 Chromatica III.mp3
+85:Lady Gaga/Chromatica [Deluxe Edition]/14 Sine From Above.mp3
+86:Lady Gaga/Chromatica [Deluxe Edition]/15 1000 Doves.mp3
+87:Lady Gaga/Chromatica [Deluxe Edition]/16 Babylon.mp3
+88:Lady Gaga/Chromatica [Deluxe Edition]/17 Love Me Right.mp3
+89:Lady Gaga/Chromatica [Deluxe Edition]/18 1000 Doves (Piano Demo).mp3
+90:Lady Gaga/Chromatica [Deluxe Edition]/19 Stupid Love (Vitaclub Warehouse Mix).mp3
+91:NA - NA.opus
 playlist_end

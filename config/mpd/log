@@ -549,3 +549,219 @@ Jul 11 22:17 : client: [2] closed
 Jul 11 22:17 : client: [3] opened from 127.0.0.1:38384
 Jul 12 17:02 : client: [3] closed
 Jul 12 21:45 : player: played "Lady Gaga/Artpop/15 Applause.mp3"
+Aug 24 21:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:51 : client: [0] opened from 127.0.0.1:46876
+Aug 24 21:51 : update: added /16 Babylon.mp3
+Aug 24 21:51 : update: added /14 Sine From Above.mp3
+Aug 24 21:51 : update: added /12 Replay.mp3
+Aug 24 21:51 : update: added /19 Stupid Love (Vitaclub Warehouse Mix).mp3
+Aug 24 21:51 : update: added /08 911.mp3
+Aug 24 21:51 : update: added /04 Rain On Me.mp3
+Aug 24 21:51 : update: added /13 Chromatica III.mp3
+Aug 24 21:51 : update: added /18 1000 Doves (Piano Demo).mp3
+Aug 24 21:51 : update: added /Train - Drops of Jupiter.opus
+Aug 24 21:51 : update: added /17 Love Me Right.mp3
+Aug 24 21:51 : update: added /15 1000 Doves.mp3
+Aug 24 21:51 : update: added /11 Enigma.mp3
+Aug 24 21:51 : update: added /05 Free Woman.mp3
+Aug 24 21:51 : update: added /07 Chromatica II.mp3
+Aug 24 21:51 : update: added /02 Alice.mp3
+Aug 24 21:51 : update: added /09 Plastic Doll.mp3
+Aug 24 21:51 : update: added /06 Fun Tonight.mp3
+Aug 24 21:51 : update: added /10 Sour Candy.mp3
+Aug 24 21:51 : update: added /03 Stupid Love.mp3
+Aug 24 21:51 : update: added /Cher - The Gunman.opus
+Aug 24 21:51 : update: added /01 Chromatica I.mp3
+Aug 24 21:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:51 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : update: updating /16 Babylon.mp3
+Aug 24 21:52 : update: updating /14 Sine From Above.mp3
+Aug 24 21:52 : update: updating /12 Replay.mp3
+Aug 24 21:52 : update: updating /19 Stupid Love (Vitaclub Warehouse Mix).mp3
+Aug 24 21:52 : update: updating /08 911.mp3
+Aug 24 21:52 : update: updating /04 Rain On Me.mp3
+Aug 24 21:52 : update: updating /13 Chromatica III.mp3
+Aug 24 21:52 : update: updating /18 1000 Doves (Piano Demo).mp3
+Aug 24 21:52 : update: updating /Train - Drops of Jupiter.opus
+Aug 24 21:52 : update: updating /17 Love Me Right.mp3
+Aug 24 21:52 : update: updating /15 1000 Doves.mp3
+Aug 24 21:52 : update: updating /11 Enigma.mp3
+Aug 24 21:52 : update: updating /05 Free Woman.mp3
+Aug 24 21:52 : update: updating /07 Chromatica II.mp3
+Aug 24 21:52 : update: updating /02 Alice.mp3
+Aug 24 21:52 : update: updating /09 Plastic Doll.mp3
+Aug 24 21:52 : update: updating /06 Fun Tonight.mp3
+Aug 24 21:52 : update: updating /10 Sour Candy.mp3
+Aug 24 21:52 : update: updating /03 Stupid Love.mp3
+Aug 24 21:52 : update: updating /Cher - The Gunman.opus
+Aug 24 21:52 : update: updating /01 Chromatica I.mp3
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:52 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 24 21:55 : update: added /NA - NA.opus
+Aug 24 21:56 : update: removing NA - NA.opus
+Aug 24 22:00 : update: added /NA - NA.opus
+Aug 24 22:00 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 25 20:57 : client: [0] closed
+Aug 29 21:22 : update: added Sabaton/The Great War/08 A Ghost In The Trenches.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/11 In Flanders Fields.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/06 The Red Baron.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/01 The Future Of Warfare.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/10 The End Of The War To End All Wars.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/09 Fields Of Verdun.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/03 82nd All The Way.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/04 The Attack Of The Dead Men.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/02 Seven Pillars Of Wisdom.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/07 Great War.mp3
+Aug 29 21:22 : update: added Sabaton/The Great War/05 Devil Dogs.mp3
+Aug 29 21:23 : update: removing NA - NA.opus
+Aug 29 21:23 : update: removing 19 Stupid Love (Vitaclub Warehouse Mix).mp3
+Aug 29 21:23 : update: removing 18 1000 Doves (Piano Demo).mp3
+Aug 29 21:23 : update: removing 17 Love Me Right.mp3
+Aug 29 21:23 : update: removing 16 Babylon.mp3
+Aug 29 21:23 : update: removing 15 1000 Doves.mp3
+Aug 29 21:23 : update: removing 14 Sine From Above.mp3
+Aug 29 21:23 : update: removing 13 Chromatica III.mp3
+Aug 29 21:23 : update: removing 12 Replay.mp3
+Aug 29 21:23 : update: removing 11 Enigma.mp3
+Aug 29 21:23 : update: removing 10 Sour Candy.mp3
+Aug 29 21:23 : update: removing 09 Plastic Doll.mp3
+Aug 29 21:23 : update: removing 08 911.mp3
+Aug 29 21:23 : update: removing 07 Chromatica II.mp3
+Aug 29 21:23 : update: removing 06 Fun Tonight.mp3
+Aug 29 21:23 : update: removing 05 Free Woman.mp3
+Aug 29 21:23 : update: removing 04 Rain On Me.mp3
+Aug 29 21:23 : update: removing 03 Stupid Love.mp3
+Aug 29 21:23 : update: removing 02 Alice.mp3
+Aug 29 21:23 : update: removing 01 Chromatica I.mp3
+Aug 29 21:23 : client: [1] opened from 127.0.0.1:41386
+Aug 29 21:24 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 29 21:24 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 29 21:24 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 29 21:25 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 29 21:25 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:21 : update: added /NA - NA.m4a
+Aug 31 21:21 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:21 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : update: updating /NA - NA.m4a
+Aug 31 21:22 : update: updating /Train - Drops of Jupiter.opus
+Aug 31 21:22 : update: updating /Cher - The Gunman.opus
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:22 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:24 : player: played "Sabaton/The Great War/01 The Future Of Warfare.mp3"
+Aug 31 21:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:24 : client: [0] opened from 127.0.0.1:45366
+Aug 31 21:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:26 : client: [1] opened from 127.0.0.1:45398
+Aug 31 21:26 : client: [1] closed
+Aug 31 21:26 : player: played "Sabaton/The Great War/01 The Future Of Warfare.mp3"
+Aug 31 21:27 : client: [2] opened from 127.0.0.1:45406
+Aug 31 21:28 : client: [2] closed
+Aug 31 21:28 : client: [0] closed
+Aug 31 21:28 : client: [3] opened from 127.0.0.1:45410
+Aug 31 21:28 : player: played "Sabaton/The Great War/03 82nd All The Way.mp3"
+Aug 31 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:29 : client: [0] opened from 127.0.0.1:45426
+Aug 31 21:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 21:32 : client: [0] closed
+Aug 31 21:32 : client: [1] opened from 127.0.0.1:45444
+Aug 31 21:32 : player: played "Sabaton/The Great War/03 82nd All The Way.mp3"
+Aug 31 21:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 21:37 : player: played "Sabaton/The Great War/05 Devil Dogs.mp3"
+Aug 31 21:41 : player: played "Sabaton/The Great War/06 The Red Baron.mp3"
+Aug 31 21:45 : player: played "Sabaton/The Great War/07 Great War.mp3"
+Aug 31 21:49 : player: played "Sabaton/The Great War/08 A Ghost In The Trenches.mp3"
+Aug 31 21:52 : player: played "Sabaton/The Great War/09 Fields Of Verdun.mp3"
+Aug 31 21:57 : player: played "Sabaton/The Great War/10 The End Of The War To End All Wars.mp3"
+Aug 31 21:59 : player: played "Sabaton/The Great War/11 In Flanders Fields.mp3"
+Aug 31 22:04 : player: played "NA - NA.m4a"
+Aug 31 22:09 : player: played "Rise Against/Wolves/02 House On Fire.mp3"
+Aug 31 22:58 : update: added /NA - NA.opus
+Aug 31 22:58 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 22:58 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 22:59 : update: updating /NA - NA.m4a
+Aug 31 22:59 : update: updating /Train - Drops of Jupiter.opus
+Aug 31 22:59 : update: updating /NA - NA.opus
+Aug 31 22:59 : update: updating /Cher - The Gunman.opus
+Aug 31 22:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 22:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 22:59 : client: [1] closed
+Aug 31 22:59 : client: [2] opened from 127.0.0.1:46242
+Aug 31 22:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 22:59 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 23:00 : update: updating /NA - NA.m4a
+Aug 31 23:00 : update: updating /Train - Drops of Jupiter.opus
+Aug 31 23:00 : update: updating /NA - NA.opus
+Aug 31 23:00 : update: updating /Cher - The Gunman.opus
+Aug 31 23:00 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 23:00 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Aug 31 23:02 : client: [2] closed
+Aug 31 23:08 : client: [3] opened from 127.0.0.1:46420
+Aug 31 23:08 : update: updating /NA - NA.opus
+Sep 02 21:37 : player: played "NA - NA.opus"
+Sep 02 21:37 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:37 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:38 : update: updating /NA - NA.m4a
+Sep 02 21:38 : update: updating /Train - Drops of Jupiter.opus
+Sep 02 21:38 : update: updating /NA - NA.opus
+Sep 02 21:38 : update: updating /Cher - The Gunman.opus
+Sep 02 21:38 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:38 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:38 : player: played "NA - NA.opus"
+Sep 02 21:41 : client: [3] closed
+Sep 02 21:41 : client: [4] opened from 127.0.0.1:50248
+Sep 02 21:41 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:41 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:41 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 21:42 : client: [4] closed
+Sep 02 21:42 : client: [5] opened from 127.0.0.1:50262
+Sep 02 21:45 : player: played "Rise Against/Wolves/02 House On Fire.mp3"
+Sep 02 21:49 : player: played "Rise Against/Wolves/03 The Violence.mp3"
+Sep 02 21:52 : player: played "Rise Against/Wolves/04 Welcome To The Breakdown.mp3"
+Sep 02 21:56 : player: played "Rise Against/Wolves/05 Far From Perfect.mp3"
+Sep 02 22:00 : player: played "Rise Against/Wolves/06 Bullshit.mp3"
+Sep 02 22:03 : client: [5] closed
+Sep 02 22:03 : client: [6] opened from 127.0.0.1:50440
+Sep 02 22:03 : update: updating /NA - NA.opus
+Sep 02 22:04 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:04 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:04 : update: updating /NA - NA.m4a
+Sep 02 22:04 : update: updating /Train - Drops of Jupiter.opus
+Sep 02 22:04 : update: updating /NA - NA.opus
+Sep 02 22:04 : update: updating /Cher - The Gunman.opus
+Sep 02 22:04 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:04 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:08 : player: played "Sabaton/The Great War/01 The Future Of Warfare.mp3"
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:09 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 02 22:11 : client: [6] closed
+Sep 02 22:11 : client: [7] opened from 127.0.0.1:50482
+Sep 02 22:13 : avahi: Service 'Music Player @ krypton' successfully established.
+Sep 02 22:16 : player: played "NA - NA.m4a"
+Sep 13 20:40 : client: [7] closed
+Sep 24 18:32 : client: [8] opened from 127.0.0.1:33164
+Sep 24 18:33 : exception: Failed to open /home/gabriel/.config/mpd/playlists: No such file or directory
+Sep 24 18:35 : client: [8] closed
+Oct 14 20:40 : player: played "Rise Against/Wolves/06 Bullshit.mp3"
