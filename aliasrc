@@ -28,4 +28,6 @@ alias \
 	vim="$EDITOR" \
 	p="sudo pacman" \
 	z="zathura" \
-	flameshot="flameshot gui"
+	flameshot="flameshot gui" \
+	pinstall="pacman -Slq | fzf --multi --preview 'pacman -Si {1}' | xargs -ro sudo pacman -S" \
+	s3d="/opt/Simplify3D-4.1.2/LaunchScript.sh"

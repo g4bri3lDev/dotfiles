@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/gabriel/dev/arch-pkgs/chitubox-free/test/chitubox-free-bin'
 let g:netrw_dirhist_8='/home/gabriel/dev/webdev/a-star/src'
 let g:netrw_dirhist_7='/home/gabriel/.dotfiles/local'
 let g:netrw_dirhist_6='/home/gabriel/.dotfiles/local/bin/statusbar'

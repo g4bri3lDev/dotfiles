@@ -1,0 +1,36 @@
+#!/bin/bash
+
+vod(){
+    linklist=$(curl -s https://live.rbg.tum.de/cgi-bin/streams | sed -e 's/>/>\n /g' | grep "'vodlist'" | grep -v '.archive' | grep -v 'live.rbg.tum/VOD' | awk -F "'" '{ print "https://live.rbg.tum.de"$4 }' | xargs -L1 curl -s | grep '("video1")' | awk -F "'" '{print $2}')
+    timelist=$(curl -s https://live.rbg.tum.de/cgi-bin/streams | sed -e 's/>/>\n /g' | grep 'Uhr</A>' | sed -e 's/&nbsp;//g' |sed -e 's/<\/A>//g' |sed -e 's/\ /\_/g')
+    linkarray=(`echo ${linklist}`)
+    timearray=(`echo ${timelist}`)
+    len=${#linkarray[@]}
+    for (( i=0; i<$len; i++ )); do
+        dialoglist+="${linkarray[$i]} ${timearray[$i]} "
+    done
+    echo $dialoglist
+
+    link=$(dialog --menu "Choose Video" 0 0 0 $dialoglist 3>&1 1>&2 2>&3)
+    clear
+    $player $link
+}
+
+live(){
+    linklist=$(curl -s https://live.rbg.tum.de/cgi-bin/streams | sed -e 's/>/>\n /g' | grep 'HREF="https://live.rbg.tum.de/cgi-bin/streams/' | grep COMB | awk -F "'" '{ print "https://live.rbg.tum.de"$4 }' | xargs -L1 curl -s | grep '("video1")' | awk -F "'" '{print $2" \"\"" }')
+    link=$(dialog --menu "Choose Video" 0 0 0 $linklist 3>&1 1>&2 2>&3)
+    clear
+    $player $link
+}
+
+[  -z "$1" ] && player=mpv || player=$1
+format=$(dialog --menu "Choose Format" 0 0 0 "Live" "" "VOD" "" 3>&1 1>&2 2>&3)
+echo $format
+if [ "$format" == "Live" ]; then
+    dialog --msgbox "Live not fully tested yet..." 0 0 3>&1 1>&2 2>&3
+    live
+fi
+if [ "$format" == "VOD" ]; then
+    dialog --infobox "Loading Videos..." 0 0 3>&1 1>&2 2>&3
+    vod
+fi

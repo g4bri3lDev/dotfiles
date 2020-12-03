@@ -24,6 +24,8 @@
         ~/.config/gtk-3.0: config/gtk-3.0
         ~/.config/vifm: config/vifm
         ~/.config/spicetify: config/spicetify
+        ~/.config/redshift: config/redshift
+        ~/.config/picom: config/picom
         #local
         #
         #
